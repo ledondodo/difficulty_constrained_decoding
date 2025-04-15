@@ -1,0 +1,3 @@
+[submodule "libs/gcd"]
+	path = libs/gcd
+	url = https://github.com/ledondodo/gcd.git
