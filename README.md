@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Data Science Master’s Research Project at EPFL dlab.
+Data Science Master’s Research Project at EPFL, Data Science Lab (dlab).
 
 ![Word graph "cat"](img/word%20graph%20cat.png)
 
